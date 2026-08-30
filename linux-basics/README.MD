@@ -20,12 +20,6 @@ All programs were compiled and executed using gcc.
 ✔ Hello Linux Program
 Displays a simple message
 Helps verify compiler setup
-✔ Even / Odd Program
-Checks whether a number is even or odd
-✔ Swap Program
-Swaps two numbers using a temporary variable
-✔ Prime Number Program
-Checks whether a number is prime
 ⚙️ Compilation & Execution
 gcc filename.c -o output
 ./output
